@@ -1,0 +1,11 @@
+BackEnd.exe: 00003438: 01:08:28 [TUniServerModule]:Shutting Down Server.
+BackEnd.exe: 00003438: 01:08:28 [TUniServerModule]:Stopping HTTP Server.
+BackEnd.exe: 00003438: 01:08:28 [TUniServerModule]:HTTP Server Stopped.
+BackEnd.exe: 00003438: 01:08:28 [TUniGUISessionManager]:Terminating Session manager.
+BackEnd.exe: 00003438: 01:08:28 [TUniGUISessionManager]:Stopping Cache Eraser...
+BackEnd.exe: 00003438: 01:08:28 [TUniGUISessionManager]:Cache Eraser Stopped.
+BackEnd.exe: 00003438: 01:08:28 [TUniGUISessionManager]:Destroying Worker Threads.
+BackEnd.exe: 00003438: 01:08:28 [TUniGUISessionManager]:Session manager terminated.
+BackEnd.exe: 00003438: 01:08:28 [TUniServerModule]:Server Shutdown Completed.
+BackEnd.exe: 00003438: 01:08:28 []:<-------------------------------------------------------------->
+BackEnd.exe: 00003438: 01:08:28 [Terminated]:Exit Code: 0

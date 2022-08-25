@@ -1,0 +1,45 @@
+/*
+
+# Animação com CSS3 #
+*/
+
+.DoisSeg {
+ -webkit-animation-duration: 2s;
+          animation-duration: 2s;
+}
+
+.Infinita {
+    -webkit-animation-iteration-count: infinite;
+            animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes Anim1 {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale3d(.3, .3, .3);
+            transform: scale3d(.3, .3, .3);
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes Anim1 {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale3d(.3, .3, .3);
+            transform: scale3d(.3, .3, .3);
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+.Anim1 {
+    -webkit-animation-duration: 1.5s;
+    animation-duration: 1.5s;  
+    -webkit-animation-name: Anim1;
+            animation-name: Anim1;  
+    -webkit-animation-fill-mode: both;
+            animation-fill-mode: both;
+}

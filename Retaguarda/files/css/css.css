@@ -1,0 +1,311 @@
+/*@import url(menu.css); */
+@import url(animate.css);
+
+* 
+{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.x-containerX
+{ /* Teste - altera a cor de fundo de vários itens */
+    background-color: #FFF !important;
+    border-width: 0 none;
+    border:0 !important;
+    box-shadow: 0 !important;
+    border-radius: 0px !important;
+}
+
+.titulo-frame {
+    font-size: 20px;
+  /*  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    color: #ec380c;
+    /*  text-transform: uppercase; */
+       text-shadow: 2px 1px 3px rgbA(251, 185, 91,0.8) /* rgba(51,51,51,0.76); */
+}
+
+.igrowl-toast {
+    text-align: center !important;
+    padding: 10px;
+    margin: 0;
+    border-radius: 6px;
+    box-shadow: 1px 1px 2px 0px #333;
+}
+.igrowl-toast .igrowl-img, 
+.igrowl-toast .igrowl-icon {
+    display: none;
+}
+
+
+
+
+.lbLoginVersao {
+    opacity: .3;
+    font-size: 11px !important;
+}
+
+.lbLoginVersao:hover {
+    opacity: 1;
+    font-size: 11px !important;
+    font-weight: 500;
+    color: rgb(9, 11, 36);
+}
+
+.bg-login { 
+   background: url(/files/images/3.jpg) no-repeat center center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover; 
+   border-radius: 0px !important;
+   overflow: hidden;
+ }
+
+.btIconTop, .btIconTop:hover, .btIconTop:active, .btIconTop:focus {
+    border:0;
+    border-width: 0px none !important;
+    background-color: transparent !important;
+    color: #FFF;
+    font-size: 22px;
+    text-align: center;
+}
+
+.x-btn-wrap {
+    border: 0;
+}
+
+.x-panel {
+    border: 0 !important;
+  /*  border-top:1px solid #cccccc !important; */
+}
+
+input[type="text"], input[type="password"] {
+    font-size: 14px;
+    padding: 5px;
+    background-color: rgb(244, 244, 244);
+    z-index: 9999;
+}
+
+.boxLogin {
+    margin-left: 50%;
+    background-color: #333; 
+    opacity: 0.9;
+}
+
+.recuperar-senha {
+    text-decoration: underline !important;
+    cursor: pointer;
+}
+
+.x-window-form, .x-window, .x-desktop, .x-body, .x-form, .x-layer {
+    margin: 0px none !important;
+    padding: 0px !important;
+    border: 0px !important;
+    border-width: 0px none !important;
+}
+
+.x-windowX, /* Mantenha para aplicar a todos os forms | Remova esta linha caso não seja esta a intenção */
+
+.form-border-none /* Para aplicar somente no Form que receber essa classe (LayoutConfig->Cls=form-sem-borda) */ 
+{
+    border-width: 0 none !important;
+    padding: 0 !important;
+    border: .5px outset #EEE !important;
+    box-shadow: 0 0 0 3px #EEEEEE transparent !important; /* sombra personalizada, remova se desejar */
+    overflow: hidden;
+    margin: 0 !important;
+}
+
+
+.x-form-login {
+    border-radius: 0px !important; 
+    border: 0; 
+    border-width: 0 none !important;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    left: 0;
+}
+
+.x-form-login .x-panelX {
+    border-radius: 8px;
+}
+
+/* .x-column-header > *,.x-column-header {
+    background: #244f7a; 
+    background-color: #244f7a; 
+    color: #FFF !important;  
+    border:0  !important;
+    border-width: 0 none !important;
+} 
+
+.x-column-header:hover, .x-column-header:focus {
+    background: #244f7a !important; 
+    background-color: #244f7a !important; 
+    color: #333 !important;  
+}
+
+.x-column-header-inner > * {
+    color: #FFF !important;
+    border: 0;
+}
+
+.x-column-header-inner:hover > * {
+    color: #333 !important;
+    border: 0;
+} */
+
+
+.x-column-header-inner:hover, 
+.x-column-header-inner:active, 
+.x-column-header-inner:focus {
+    /* background: #112c47 !important;
+    background-color: #112c47 !important;  */
+    border: 0 none; 
+} 
+
+.x-css-shadow /* Oculta a sombra padrão dos Forms, etc */
+{
+    display: none !important;
+}
+
+.btn-img {
+    cursor: pointer;
+}
+
+.btn-img:hover {
+   /* opacity: .8;*/
+}
+
+
+.x-tab-inner {
+    padding: 6px 10px;
+}
+
+.x-unselectableX {
+    color: #FFF !important;
+    background: #244f7a !important; 
+    border: 0;
+}
+
+.x-window-header { /* Barra de Titulo do Form */
+    border:0 !important;
+    border-bottom: 1px rgb(220, 220, 220) solid !important; /* Colocar uma linha embaixo da barra */
+    height: 50px !important;
+    background: #FFF !important;   
+} 
+
+.x-title {  /* Title/Caption do Form */
+    margin-top: 0px !important;
+    padding-top: 10px !important;
+    font-size: 17px;
+    font-weight: bold;
+} 
+
+.x-window-text {
+    padding: 8px;
+}
+
+.x-tool {
+    padding-top: 10px !important;    
+}
+
+.form-bottom { /* Rodapé do Form */
+    border:0 !important;
+    border-top: 1px rgb(220, 220, 220) solid !important;
+    margin-left: 1px;
+} 
+
+.x-btn {
+    max-height: 38px !important;
+}
+
+.form-bottom .x-btn {
+    max-height: 50px  !important;
+    padding-bottom: 4px !important;
+}
+
+.form-bottom > * { /* Itens do Rodapé do Form */
+    margin: 2px 5px 3px 0;
+}
+
+.form-top img { /* Botao Fechar do Form */
+    margin-top: 12px !important;
+    padding-top: 0;
+}
+
+.form-top img:hover {
+    cursor: pointer !important;    
+    opacity: .7;
+}
+
+
+
+/* Para testes */
+.badge1 
+{
+    position:relative;
+}
+ 
+.badge1[data-badge]:after
+{
+    content:attr(data-badge);
+    position:absolute;
+    top:-10px;
+    right:-10px;
+    font-size:.7em;
+    background:green;
+    color:white;
+    width:18px;height:18px;
+    text-align:center;
+    line-height:18px;
+    border-radius:50%;
+    box-shadow:0 0 1px #333;
+}
+
+.tool-bar {
+    color: #EEE;
+    background-color: #0c4058;
+    background: #0c4058;
+    z-index: 1;
+    border-radius: 0 !important;
+ /*   box-shadow: 2px 2px 4px 3px #CCCCCC;*/
+}
+
+
+
+.pnLogo {
+    background: #0c4058 !important;
+    background-color: #0c4058 !important; 
+    border: 0 none;   
+    border-radius: 0 !important;  
+}
+
+.pnLogo label {
+    color: #3c8dbc;
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 8px;
+    margin-left: 4px;
+}
+
+
+.x-panel-bodyWrap {
+    border: 0;
+    border-width: 0;
+}
+
+.border-0 {
+    border:0 !important;
+    border-width: 0 !important;
+   
+}
+
+.x-mask {
+    cursor: default !important;
+    background-color: transparent !important;  /colorização do fundo/ 
+    -webkit-backdrop-filter: blur(4px);
+    backdrop-filter: blur(4px); 
+}
+

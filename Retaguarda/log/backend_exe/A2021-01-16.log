@@ -1,0 +1,18 @@
+BackEnd.exe: 00002BFC: 16:34:50 []:>--------------------------------------------------------------<
+BackEnd.exe: 00002BFC: 16:34:50 [TUniServerModule]:Server First Init.
+BackEnd.exe: 00002BFC: 16:34:50 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+BackEnd.exe: 00002BFC: 16:34:50 [TUniServerModule]:HTTP Server Started on Port: 8077
+BackEnd.exe: 00002508: 16:35:27 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\fontawesome-free\css\all.min.css
+BackEnd.exe: 00002584: 16:35:27 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery\jquery.min.js
+BackEnd.exe: 000015EC: 16:35:27 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery-easing\jquery.easing.min.js
+BackEnd.exe: 00002924: 16:35:27 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\bootstrap\js\bootstrap.bundle.min.js
+BackEnd.exe: 00002A7C: 16:35:27 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\sb-admin-2.min.js
+BackEnd.exe: 00001A24: 16:35:27 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\chart.js\Chart.min.js
+BackEnd.exe: 00001B38: 16:35:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-area-demo.js
+BackEnd.exe: 00000B34: 16:35:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-pie-demo.js
+BackEnd.exe: 00002580: 16:35:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery-easing\jquery.easing.min.js
+BackEnd.exe: 000029B8: 16:35:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\sb-admin-2.min.js
+BackEnd.exe: 00002808: 16:35:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\chart.js\Chart.min.js
+BackEnd.exe: 00002024: 16:35:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-area-demo.js
+BackEnd.exe: 000026E4: 16:35:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-pie-demo.js
+BackEnd.exe: 0000282C: 17:00:00 [127.0.0.1]:EInvalidGraphic : Unknown picture file extension (.webp) : Addr: $00550070

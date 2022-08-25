@@ -1,0 +1,106 @@
+html, body {
+			font-family: sans-serif;
+		}
+
+		body {
+			max-width: 40em;
+			margin: 2em auto;
+		}
+
+		main {
+			text-align: center;
+			font-size: 1em;
+		}
+
+		.liga-desliga__checkbox {
+			position: absolute;
+			left: -9999px;
+		}
+
+		.liga-desliga__botao {
+			display: inline-block;
+			vertical-align: middle;
+			position: relative;
+			cursor: pointer;
+		}
+
+		.liga-desliga__botao::before,
+		.liga-desliga__botao::after {
+			content: "";
+			box-shadow: 0 0 0 1px #CCC;
+			transition: all 0.2s ease;
+		}
+
+		.liga-desliga__botao::before {
+			display: inline-block;
+			border-radius: 1em;
+			height: 1em;
+			width: 2em;
+			margin-right: 0.5em;
+			background: #900;
+		}
+
+		.liga-desliga__botao::after {
+			position: absolute;
+			top: 0.025em;
+			left: 0.025em;
+			width: 0.95em;
+			height: 0.95em;
+			border-radius: 100%;
+			background: #FFF;
+		}
+
+		.liga-desliga_checkbox:checked + .liga-desliga_botao::before {
+			background: #55D069;
+		}
+
+		.liga-desliga_checkbox:checked + .liga-desliga_botao::after {
+			left: 1.025em;
+		}
+
+		.liga-desliga_checkbox:focus + .liga-desliga_botao::before {
+			//outline: 3px dotted #CCC;
+		}
+
+
+
+
+.padrao {
+background-color: white !important;
+border: 1px solid gray;
+
+box-shadow: 5px 5px 5px gray;
+-webkit-box-shadow: box-shadow: 5px 5px 5px gray;
+-moz-box-shadow: box-shadow: 5px 5px 5px gray;
+padding: 0;
+}
+
+.fade{
+-webkit-animation: fadeIn 0.75s ease-in-out;
+-moz-animation: fadeIn 0.75s ease-in-out;
+-o-animation: fadeIn 0.75s ease-in-out;
+animation: fadeIn 0.75s ease-in-out;
+-webkit-animation-fill-mode: forwards;
+}
+
+.jack{
+-webkit-animation: jackInTheBox 0.3s;
+-moz-animation: jackInTheBox 0.3s;
+-o-animation: jackInTheBox 0.3s;
+
+animation-name: jackInTheBox 0.3s;
+}
+
+.slide{
+-webkit-animation: fadeInRight 0.5s;
+-moz-animation: fadeInRight 0.5s;
+-o-animation: fadeInRight 0.5s;
+animation: fadeInRight 0.5s; 
+}
+
+.zoom{
+-webkit-animation: zoomIn 0.5s;
+-moz-animation: zoomIn 0.5s;
+-o-animation: zoomIn 0.5s;
+animation: zoomIn 0.5s;
+}

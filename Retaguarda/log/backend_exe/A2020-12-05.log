@@ -1,0 +1,48 @@
+BackEnd.exe: 00000180: 13:57:07 []:>--------------------------------------------------------------<
+BackEnd.exe: 00000180: 13:57:07 [TUniServerModule]:Server First Init.
+BackEnd.exe: 00000180: 13:57:07 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+BackEnd.exe: 00000180: 13:57:07 [TUniServerModule]:HTTP Server Started on Port: 8077
+BackEnd.exe: 00002900: 14:02:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\path\to\font-awesome\css\font-awesome.min.css
+BackEnd.exe: 00001140: 14:02:56 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\fontawesome-free\css\all.min.css
+BackEnd.exe: 00002FCC: 14:02:56 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery-easing\jquery.easing.min.js
+BackEnd.exe: 00002C08: 14:02:56 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\sb-admin-2.min.js
+BackEnd.exe: 00002C3C: 14:02:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery\jquery.min.js
+BackEnd.exe: 00001FE4: 14:02:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\bootstrap\js\bootstrap.bundle.min.js
+BackEnd.exe: 00002D88: 14:02:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-area-demo.js
+BackEnd.exe: 00002D8C: 14:02:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-pie-demo.js
+BackEnd.exe: 00002D90: 14:02:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\chart.js\Chart.min.js
+BackEnd.exe: 00002D94: 14:02:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery-easing\jquery.easing.min.js
+BackEnd.exe: 00002168: 14:02:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\sb-admin-2.min.js
+BackEnd.exe: 000014B0: 14:02:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\chart.js\Chart.min.js
+BackEnd.exe: 00002CCC: 14:02:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-area-demo.js
+BackEnd.exe: 00000658: 14:02:58 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-pie-demo.js
+BackEnd.exe: 00000180: 16:06:59 [TUniServerModule]:Shutting Down Server.
+BackEnd.exe: 00000180: 16:06:59 [TUniServerModule]:Stopping HTTP Server.
+BackEnd.exe: 00000180: 16:07:00 [TUniServerModule]:HTTP Server Stopped.
+BackEnd.exe: 00000180: 16:07:00 [TUniGUISessionManager]:Terminating Session manager.
+BackEnd.exe: 00000180: 16:07:00 [TUniGUISessionManager]:Stopping Cache Eraser...
+BackEnd.exe: 00000180: 16:07:00 [TUniGUISessionManager]:Cache Eraser Stopped.
+BackEnd.exe: 00000180: 16:07:00 [TUniGUISessionManager]:Destroying Worker Threads.
+BackEnd.exe: 00000180: 16:07:00 [TUniGUISessionManager]:Session manager terminated.
+BackEnd.exe: 00000180: 16:07:00 [TUniServerModule]:Server Shutdown Completed.
+BackEnd.exe: 00000180: 16:07:00 []:<-------------------------------------------------------------->
+BackEnd.exe: 00000180: 16:07:00 [Terminated]:Exit Code: 0
+BackEnd.exe: 00001B34: 23:52:26 []:>--------------------------------------------------------------<
+BackEnd.exe: 00001B34: 23:52:27 [TUniServerModule]:Server First Init.
+BackEnd.exe: 00001B34: 23:52:27 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+BackEnd.exe: 00001B34: 23:52:27 [TUniServerModule]:HTTP Server Started on Port: 8077
+BackEnd.exe: 00002914: 23:52:50 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\path\to\font-awesome\css\font-awesome.min.css
+BackEnd.exe: 00002C04: 23:53:01 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\fontawesome-free\css\all.min.css
+BackEnd.exe: 00002CA8: 23:53:01 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\bootstrap\js\bootstrap.bundle.min.js
+BackEnd.exe: 000026E4: 23:53:01 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery\jquery.min.js
+BackEnd.exe: 00001ECC: 23:53:01 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery-easing\jquery.easing.min.js
+BackEnd.exe: 000027C0: 23:53:01 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\chart.js\Chart.min.js
+BackEnd.exe: 00000AE0: 23:53:01 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\sb-admin-2.min.js
+BackEnd.exe: 000006F4: 23:53:01 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-area-demo.js
+BackEnd.exe: 00001EB4: 23:53:01 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-pie-demo.js
+BackEnd.exe: 000003BC: 23:53:01 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\bootstrap\js\bootstrap.bundle.min.js
+BackEnd.exe: 000028E0: 23:53:02 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery-easing\jquery.easing.min.js
+BackEnd.exe: 000004FC: 23:53:02 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\sb-admin-2.min.js
+BackEnd.exe: 00000898: 23:53:02 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\chart.js\Chart.min.js
+BackEnd.exe: 00002E40: 23:53:02 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-area-demo.js
+BackEnd.exe: 0000143C: 23:53:02 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-pie-demo.js

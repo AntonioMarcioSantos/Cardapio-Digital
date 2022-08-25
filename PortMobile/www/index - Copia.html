@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+
+ body { 		
+	border: 0;
+	padding: 0;
+	margin: 0;
+ }
+
+.responsive-iframe {
+  position: absolute;
+
+  top:    0;
+  left:   0;
+  right:  0;  
+  bottom: 0;
+  border: 0;
+  padding: 0;
+  margin:  0;		
+  width:  100%;
+  height: 100%;
+  overflow: hidden;
+}
+</style>
+
+</head>
+<script>
+
+function openFullscreen() {
+  if (document.documentElement.requestFullscreen) {
+    document.documentElement.requestFullscreen();
+  } else if (document.documentElement.mozRequestFullScreen) {
+    document.documentElement.mozRequestFullScreen();
+  } else if (document.documentElement.webkitRequestFullscreen) {
+    document.documentElement.webkitRequestFullscreen();
+  } else if (document.documentElement.msRequestFullscreen) {
+    document.documentElement.msRequestFullscreen();
+	
+	screen.orientation.lock("portrait-primary");
+}
+
+window.onload = openFullscreen();	
+</script>
+
+<body id="body" marginwidth="0" marginheight="0" style="background-image: 
+linear-gradient(rgb(128,0,128) , rgb(128,0,128) ); height: 740px; width: 100%;" onselectstart="return false" oncontextmenu="return false" ondragstart="return false" class="vsc-initialized">
+ 
+  <div id="load" style="display: none; justify-content: center; align-items: center; width: 100vw; height: 100%; background-image: linear-gradient(rgb(233, 215, 173), rgb(243, 233, 211));">
+  <p teste do marcio>
+  </p>
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Page Title</title>
+
+    <style type="text/css" media="screen">
+
+        body,
+        html {
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
+        iframe {
+            width: 960px;
+            height: 100%;
+            overflow: hidden;
+            border: none;
+        }
+    </style>
+
+</head>
+<body>
+
+    <iframe src="http://google.com" scrolling="no"></iframe>
+
+</body>
+</html>
+
+
+
+

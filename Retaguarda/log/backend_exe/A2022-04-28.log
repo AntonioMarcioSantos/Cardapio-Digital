@@ -1,0 +1,77 @@
+BackEnd.exe: 00003A90: 21:20:04 []:>--------------------------------------------------------------<
+BackEnd.exe: 00003A90: 21:20:04 [TUniServerModule]:Server First Init.
+BackEnd.exe: 00003A90: 21:20:04 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+BackEnd.exe: 00003A90: 21:20:04 [TUniServerModule]:HTTP Server Started on Port: 8077
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00001CBC: 21:20:23 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: RI9ma6fLmu10A4DF4B5 ) : Addr: $0079B072
+BackEnd.exe: 00003700: 21:20:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos\uniGUI\CardapioDigital\Retaguarda\vendor\fontawesome-free\css\all.min.css
+BackEnd.exe: 0000494C: 21:20:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos\uniGUI\CardapioDigital\Retaguarda\vendor\jquery\jquery.min.js
+BackEnd.exe: 000034CC: 21:20:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos\uniGUI\CardapioDigital\Retaguarda\vendor\bootstrap\js\bootstrap.bundle.min.js
+BackEnd.exe: 00002744: 21:20:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos\uniGUI\CardapioDigital\Retaguarda\js\sb-admin-2.min.js
+BackEnd.exe: 00003824: 21:20:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos\uniGUI\CardapioDigital\Retaguarda\vendor\jquery-easing\jquery.easing.min.js
+BackEnd.exe: 00001CBC: 21:20:38 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos\uniGUI\CardapioDigital\Retaguarda\vendor\chart.js\Chart.min.js
+BackEnd.exe: 0000407C: 21:20:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos\uniGUI\CardapioDigital\Retaguarda\js\demo\chart-area-demo.js
+BackEnd.exe: 00000EA8: 21:20:39 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos\uniGUI\CardapioDigital\Retaguarda\js\demo\chart-pie-demo.js

@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{8CCF9572-E92B-445D-AE8E-1C5E827566B2}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="AppMenuDigital.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="C:\ERP_FRUTTY\Fontes\ERPGolden.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="AppMenuDigital">
+        <MSBuild Projects="AppMenuDigital.dproj"/>
+    </Target>
+    <Target Name="AppMenuDigital:Clean">
+        <MSBuild Projects="AppMenuDigital.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="AppMenuDigital:Make">
+        <MSBuild Projects="AppMenuDigital.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ERPGolden">
+        <MSBuild Projects="C:\ERP_FRUTTY\Fontes\ERPGolden.dproj"/>
+    </Target>
+    <Target Name="ERPGolden:Clean">
+        <MSBuild Projects="C:\ERP_FRUTTY\Fontes\ERPGolden.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ERPGolden:Make">
+        <MSBuild Projects="C:\ERP_FRUTTY\Fontes\ERPGolden.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="AppMenuDigital;ERPGolden"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="AppMenuDigital:Clean;ERPGolden:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="AppMenuDigital:Make;ERPGolden:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

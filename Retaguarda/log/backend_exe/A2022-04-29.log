@@ -1,0 +1,11 @@
+BackEnd.exe: 00003A90: 15:10:24 [TUniServerModule]:Shutting Down Server.
+BackEnd.exe: 00003A90: 15:10:24 [TUniServerModule]:Stopping HTTP Server.
+BackEnd.exe: 00003A90: 15:10:25 [TUniServerModule]:HTTP Server Stopped.
+BackEnd.exe: 00003A90: 15:10:25 [TUniGUISessionManager]:Terminating Session manager.
+BackEnd.exe: 00003A90: 15:10:25 [TUniGUISessionManager]:Stopping Cache Eraser...
+BackEnd.exe: 00003A90: 15:10:25 [TUniGUISessionManager]:Cache Eraser Stopped.
+BackEnd.exe: 00003A90: 15:10:25 [TUniGUISessionManager]:Destroying Worker Threads.
+BackEnd.exe: 00003A90: 15:10:25 [TUniGUISessionManager]:Session manager terminated.
+BackEnd.exe: 00003A90: 15:10:25 [TUniServerModule]:Server Shutdown Completed.
+BackEnd.exe: 00003A90: 15:10:25 []:<-------------------------------------------------------------->
+BackEnd.exe: 00003A90: 15:10:25 [Terminated]:Exit Code: 0

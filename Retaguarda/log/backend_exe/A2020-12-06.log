@@ -1,0 +1,11 @@
+BackEnd.exe: 00001B34: 01:04:55 [TUniServerModule]:Shutting Down Server.
+BackEnd.exe: 00001B34: 01:04:55 [TUniServerModule]:Stopping HTTP Server.
+BackEnd.exe: 00001B34: 01:04:56 [TUniServerModule]:HTTP Server Stopped.
+BackEnd.exe: 00001B34: 01:04:56 [TUniGUISessionManager]:Terminating Session manager.
+BackEnd.exe: 00001B34: 01:04:56 [TUniGUISessionManager]:Stopping Cache Eraser...
+BackEnd.exe: 00001B34: 01:04:56 [TUniGUISessionManager]:Cache Eraser Stopped.
+BackEnd.exe: 00001B34: 01:04:56 [TUniGUISessionManager]:Destroying Worker Threads.
+BackEnd.exe: 00001B34: 01:04:56 [TUniGUISessionManager]:Session manager terminated.
+BackEnd.exe: 00001B34: 01:04:56 [TUniServerModule]:Server Shutdown Completed.
+BackEnd.exe: 00001B34: 01:04:56 []:<-------------------------------------------------------------->
+BackEnd.exe: 00001B34: 01:04:56 [Terminated]:Exit Code: 0

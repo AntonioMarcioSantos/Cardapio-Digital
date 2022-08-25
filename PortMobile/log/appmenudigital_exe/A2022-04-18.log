@@ -1,0 +1,274 @@
+AppMenuDigital.exe: 000006B0: 21:42:52 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 000006B0: 21:42:52 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 000006B0: 21:42:52 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 000006B0: 21:42:52 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 000006B0: 21:42:52 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 000006B0: 21:42:52 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00003EC4: 21:43:02 [127.0.0.1]:Session <4Y9PkrnwYV10A40DD98> Created.
+AppMenuDigital.exe: 00003EC4: 21:43:02 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: pxtzzyMCje10A40DB6C ) : Addr: $007C29BA
+AppMenuDigital.exe: 00003EC4: 21:43:05 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00003B28: 21:46:39 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00003B28: 21:46:39 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00003B28: 21:46:39 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00003B28: 21:46:39 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+AppMenuDigital.exe: 00003B28: 21:46:40 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00003B28: 21:46:40 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 000007B8: 21:46:48 [127.0.0.1]:Session <yJCn57bgNv10A40DE9F> Created.
+AppMenuDigital.exe: 000007B8: 21:46:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 4Y9PkrnwYV10A40DD98 ) : Addr: $007C29BA
+AppMenuDigital.exe: 000007B8: 21:46:51 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 000009EC: 21:47:13 [127.0.0.1]:EDatabaseError : FDQryPedidos: Parameter 'PEDIDO2' not found : Addr: $00650BD2
+AppMenuDigital.exe: 00003D78: 21:47:30 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00003D78: 21:47:30 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00003D78: 21:47:30 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00003D78: 21:47:30 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 00003D78: 21:47:30 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00003D78: 21:47:30 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00000874: 21:47:48 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00000874: 21:47:48 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00000874: 21:47:48 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00000874: 21:47:48 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+AppMenuDigital.exe: 00000874: 21:47:48 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00000874: 21:47:48 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00004564: 21:47:56 [127.0.0.1]:Session <hFQreDYaUv10A40DEED> Created.
+AppMenuDigital.exe: 00004564: 21:47:56 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: yJCn57bgNv10A40DE9F ) : Addr: $007C29BA
+AppMenuDigital.exe: 00004564: 21:47:59 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00004900: 21:48:19 [127.0.0.1]:EDatabaseError : FDQryPedidos: Parameter 'PEDIDO' not found : Addr: $00650BD2
+AppMenuDigital.exe: 000028A8: 21:50:55 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 000028A8: 21:50:55 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 000028A8: 21:50:55 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 000028A8: 21:50:55 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 000028A8: 21:50:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 000028A8: 21:50:55 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00001E9C: 21:51:04 [127.0.0.1]:Session <DxoQFQ3WQO10A40DFC7> Created.
+AppMenuDigital.exe: 00001E9C: 21:51:04 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: hFQreDYaUv10A40DEED ) : Addr: $007C29BA
+AppMenuDigital.exe: 00001E9C: 21:51:07 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00003678: 21:52:25 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00003678: 21:52:25 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00003678: 21:52:25 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00003678: 21:52:25 [TUniServerModule]:Global Cache Folder Erased. <8> Files deleted.
+AppMenuDigital.exe: 00003678: 21:52:25 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00003678: 21:52:25 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00002A0C: 21:52:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: DxoQFQ3WQO10A40DFC7 ) : Addr: $007C29BA
+AppMenuDigital.exe: 00002A0C: 21:52:34 [127.0.0.1]:Session <dGCSqN2PAX10A40E02F> Created.
+AppMenuDigital.exe: 00002A0C: 21:52:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00003850: 21:55:53 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00003850: 21:55:53 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00003850: 21:55:53 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00003850: 21:55:53 [TUniServerModule]:Global Cache Folder Erased. <8> Files deleted.
+AppMenuDigital.exe: 00003850: 21:55:53 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00003850: 21:55:53 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00004960: 21:56:06 [127.0.0.1]:Session <szeEvjtgq510A40E124> Created.
+AppMenuDigital.exe: 00004960: 21:56:06 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: dGCSqN2PAX10A40E02F ) : Addr: $007C29BA
+AppMenuDigital.exe: 00004960: 21:56:09 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 000043C8: 21:58:51 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 000043C8: 21:58:51 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 000043C8: 21:58:51 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 000043C8: 21:58:51 [TUniServerModule]:Global Cache Folder Erased. <8> Files deleted.
+AppMenuDigital.exe: 000043C8: 21:58:51 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 000043C8: 21:58:51 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 000036BC: 21:58:59 [127.0.0.1]:Session <XzbWDrYEJD10A40E1EC> Created.
+AppMenuDigital.exe: 000036BC: 21:58:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: szeEvjtgq510A40E124 ) : Addr: $007C29BA
+AppMenuDigital.exe: 000036BC: 21:59:02 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 000041FC: 22:00:58 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 000041FC: 22:00:58 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 000041FC: 22:00:58 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 000041FC: 22:00:58 [TUniServerModule]:Global Cache Folder Erased. <8> Files deleted.
+AppMenuDigital.exe: 000041FC: 22:00:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 000041FC: 22:00:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00001CB8: 22:01:06 [127.0.0.1]:Session <fEq7pcmNS710A40E280> Created.
+AppMenuDigital.exe: 00001CB8: 22:01:06 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: XzbWDrYEJD10A40E1EC ) : Addr: $007C29BA
+AppMenuDigital.exe: 00001CB8: 22:01:09 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00003BD4: 22:01:30 [127.0.0.1]:EDatabaseError : FDQryPedidos2: Cannot perform this operation on a closed dataset : Addr: $00650BD2
+AppMenuDigital.exe: 000029B8: 22:01:55 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 000029B8: 22:01:55 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 000029B8: 22:01:55 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 000029B8: 22:01:55 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 000029B8: 22:01:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 000029B8: 22:01:55 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00003BD0: 22:02:07 [127.0.0.1]:Session <wNOkDuBRUX10A40E2C6> Created.
+AppMenuDigital.exe: 00003BD0: 22:02:07 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: fEq7pcmNS710A40E280 ) : Addr: $007C29BA
+AppMenuDigital.exe: 00003BD0: 22:02:10 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00001B1C: 22:02:31 [127.0.0.1]:EDatabaseError : FDQryPedidos2: Cannot perform this operation on a closed dataset : Addr: $00650BD2
+AppMenuDigital.exe: 00002B84: 22:05:49 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00002B84: 22:05:49 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00002B84: 22:05:49 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00002B84: 22:05:49 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+AppMenuDigital.exe: 00002B84: 22:05:49 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00002B84: 22:05:49 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 000037BC: 22:05:57 [127.0.0.1]:Session <9BolxLib4F10A40E3D0> Created.
+AppMenuDigital.exe: 000037BC: 22:05:57 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: wNOkDuBRUX10A40E2C6 ) : Addr: $007C29BA
+AppMenuDigital.exe: 000037BC: 22:06:00 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00004B34: 22:06:38 [127.0.0.1]:EDatabaseError : FDQryPedidos2: Cannot perform this operation on a closed dataset : Addr: $00650BD2
+AppMenuDigital.exe: 0000405C: 22:22:20 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 0000405C: 22:22:20 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 0000405C: 22:22:20 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 0000405C: 22:22:20 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+AppMenuDigital.exe: 0000405C: 22:22:20 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 0000405C: 22:22:20 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 000049E4: 22:22:51 [127.0.0.1]:Session <7DADP55j8Q10A40E866> Created.
+AppMenuDigital.exe: 000049E4: 22:22:51 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 9BolxLib4F10A40E3D0 ) : Addr: $007C29BA
+AppMenuDigital.exe: 000049E4: 22:22:54 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00000834: 22:28:13 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00000834: 22:28:13 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00000834: 22:28:13 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00000834: 22:28:13 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 00000834: 22:28:13 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00000834: 22:28:13 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 0000210C: 22:28:22 [127.0.0.1]:Session <AqYYC9R6X510A40E9E5> Created.
+AppMenuDigital.exe: 0000210C: 22:28:22 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 7DADP55j8Q10A40E866 ) : Addr: $007C29BA
+AppMenuDigital.exe: 0000210C: 22:28:25 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00004670: 22:33:47 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00004670: 22:33:47 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00004670: 22:33:47 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00004670: 22:33:47 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 00004670: 22:33:47 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00004670: 22:33:47 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00002A70: 22:34:20 [127.0.0.1]:Session <bhOLWIoSVX10A40EB83> Created.
+AppMenuDigital.exe: 00002A70: 22:34:20 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: AqYYC9R6X510A40E9E5 ) : Addr: $007C29BA
+AppMenuDigital.exe: 00002A70: 22:34:23 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00003784: 22:35:14 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00003784: 22:35:14 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00003784: 22:35:14 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00003784: 22:35:14 [TUniServerModule]:Global Cache Folder Erased. <4> Files deleted.
+AppMenuDigital.exe: 00003784: 22:35:14 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00003784: 22:35:14 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00003E20: 22:35:29 [127.0.0.1]:Session <Q9etGjmxgQ10A40EBD3> Created.
+AppMenuDigital.exe: 00003E20: 22:35:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: bhOLWIoSVX10A40EB83 ) : Addr: $007C29BA
+AppMenuDigital.exe: 00003E20: 22:35:32 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00003288: 22:56:55 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00003288: 22:56:55 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00003288: 22:56:55 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00003288: 22:56:55 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 00003288: 22:56:55 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00003288: 22:56:55 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00002394: 22:57:08 [127.0.0.1]:Session <3gc5nRpaCS10A40F1B2> Created.
+AppMenuDigital.exe: 00002394: 22:57:08 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Q9etGjmxgQ10A40EBD3 ) : Addr: $007C29BA
+AppMenuDigital.exe: 00002394: 22:57:11 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 0000413C: 23:02:31 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 0000413C: 23:02:31 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 0000413C: 23:02:31 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 0000413C: 23:02:31 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 0000413C: 23:02:31 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 0000413C: 23:02:31 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00001178: 23:02:40 [127.0.0.1]:Session <V1kTLVmXs810A40F334> Created.
+AppMenuDigital.exe: 00001178: 23:02:40 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 3gc5nRpaCS10A40F1B2 ) : Addr: $007C29BA
+AppMenuDigital.exe: 00001178: 23:02:43 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00003738: 23:03:10 [127.0.0.1]:EAccessViolation : Access violation at address 00A9256D in module 'AppMenuDigital.exe'. Read of address 00000050 : Addr: $00A9256D
+AppMenuDigital.exe: 00000144: 23:07:24 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00000144: 23:07:24 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00000144: 23:07:24 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00000144: 23:07:24 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+AppMenuDigital.exe: 00000144: 23:07:24 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00000144: 23:07:24 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00000538: 23:07:30 [127.0.0.1]:Session <IJ9KDkjQMr10A40F483> Created.
+AppMenuDigital.exe: 00000538: 23:07:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: V1kTLVmXs810A40F334 ) : Addr: $007C29BA
+AppMenuDigital.exe: 00000538: 23:07:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00001BC4: 23:07:52 [127.0.0.1]:EAccessViolation : Access violation at address 00A9256D in module 'AppMenuDigital.exe'. Read of address 00000050 : Addr: $00A9256D
+AppMenuDigital.exe: 00004144: 23:11:42 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00004144: 23:11:42 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00004144: 23:11:42 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00004144: 23:11:42 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 00004144: 23:11:42 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00004144: 23:11:42 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00001CB8: 23:11:48 [127.0.0.1]:Session <1sBwEsyDRX10A40F5AE> Created.
+AppMenuDigital.exe: 00001CB8: 23:11:48 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: IJ9KDkjQMr10A40F483 ) : Addr: $007C29BA
+AppMenuDigital.exe: 00001CB8: 23:12:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 0000222C: 23:22:37 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 0000222C: 23:22:37 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 0000222C: 23:22:37 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 0000222C: 23:22:37 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 0000222C: 23:22:37 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 0000222C: 23:22:37 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00003D78: 23:22:47 [127.0.0.1]:Session <Xg2n69U6RE10A40F8A8> Created.
+AppMenuDigital.exe: 00003D78: 23:22:47 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: 1sBwEsyDRX10A40F5AE ) : Addr: $007C29BA
+AppMenuDigital.exe: 00003D78: 23:22:51 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00001A88: 23:24:46 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00001A88: 23:24:46 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00001A88: 23:24:46 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00001A88: 23:24:46 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+AppMenuDigital.exe: 00001A88: 23:24:46 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00001A88: 23:24:46 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00003568: 23:25:45 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00003568: 23:25:45 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00003568: 23:25:45 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00003568: 23:25:45 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+AppMenuDigital.exe: 00003568: 23:25:45 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00003568: 23:25:45 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00003334: 23:25:53 [127.0.0.1]:Session <tpnrmDpKmT10A40F980> Created.
+AppMenuDigital.exe: 00003334: 23:25:54 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: Xg2n69U6RE10A40F8A8 ) : Addr: $007C29BA
+AppMenuDigital.exe: 00003334: 23:25:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 000041A8: 23:27:40 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 000041A8: 23:27:40 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 000041A8: 23:27:40 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 000041A8: 23:27:40 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+AppMenuDigital.exe: 000041A8: 23:27:40 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 000041A8: 23:27:40 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00004B80: 23:27:57 [127.0.0.1]:Session <aNHINltO3a10A40FA0E> Created.
+AppMenuDigital.exe: 00004B80: 23:27:57 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: tpnrmDpKmT10A40F980 ) : Addr: $007C29BA
+AppMenuDigital.exe: 00004B80: 23:28:00 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00003DBC: 23:35:16 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00003DBC: 23:35:16 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00003DBC: 23:35:16 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00003DBC: 23:35:16 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+AppMenuDigital.exe: 00003DBC: 23:35:16 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00003DBC: 23:35:16 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00000930: 23:35:29 [127.0.0.1]:Session <KS47TikIVO10A40FC1A> Created.
+AppMenuDigital.exe: 00000930: 23:35:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: aNHINltO3a10A40FA0E ) : Addr: $007C29BA
+AppMenuDigital.exe: 00000930: 23:35:32 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 000040F8: 23:38:22 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 000040F8: 23:38:22 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 000040F8: 23:38:22 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 000040F8: 23:38:22 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 000040F8: 23:38:22 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 000040F8: 23:38:22 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00004130: 23:38:30 [127.0.0.1]:Session <dknrsQS1dG10A40FCEC> Created.
+AppMenuDigital.exe: 00004130: 23:38:30 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: KS47TikIVO10A40FC1A ) : Addr: $007C29BA
+AppMenuDigital.exe: 00004130: 23:38:33 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 000021D4: 23:42:02 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 000021D4: 23:42:02 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 000021D4: 23:42:02 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 000021D4: 23:42:02 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 000021D4: 23:42:02 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 000021D4: 23:42:02 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 000018F0: 23:42:09 [127.0.0.1]:Session <R1bEs5rNL310A40FDE9> Created.
+AppMenuDigital.exe: 000018F0: 23:42:09 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: dknrsQS1dG10A40FCEC ) : Addr: $007C29BA
+AppMenuDigital.exe: 000018F0: 23:42:12 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00000150: 23:42:37 [127.0.0.1]:EDatabaseError : FDQryPedidos: Parameter 'PEDIDO' not found : Addr: $00650BD2
+AppMenuDigital.exe: 00004408: 23:43:50 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00004408: 23:43:50 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00004408: 23:43:50 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00004408: 23:43:50 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 00004408: 23:43:50 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00004408: 23:43:50 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 000036D0: 23:43:59 [127.0.0.1]:Session <TdyD9rcpAR10A40FE68> Created.
+AppMenuDigital.exe: 000036D0: 23:43:59 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: R1bEs5rNL310A40FDE9 ) : Addr: $007C29BA
+AppMenuDigital.exe: 000036D0: 23:44:02 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 00003DD8: 23:48:32 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 00003DD8: 23:48:32 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 00003DD8: 23:48:32 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 00003DD8: 23:48:32 [TUniServerModule]:Global Cache Folder Erased. <7> Files deleted.
+AppMenuDigital.exe: 00003DD8: 23:48:32 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 00003DD8: 23:48:32 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00004690: 23:48:43 [127.0.0.1]:Session <zZSeCrEVHm10A40FFB1> Created.
+AppMenuDigital.exe: 00004690: 23:48:43 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: TdyD9rcpAR10A40FE68 ) : Addr: $007C29BA
+AppMenuDigital.exe: 00004690: 23:48:46 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 000049B4: 23:51:23 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 000049B4: 23:51:23 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 000049B4: 23:51:23 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 000049B4: 23:51:23 [TUniServerModule]:Global Cache Folder Erased. <6> Files deleted.
+AppMenuDigital.exe: 000049B4: 23:51:23 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 000049B4: 23:51:23 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 0000456C: 23:51:33 [127.0.0.1]:Session <p2enCHmSRL10A410076> Created.
+AppMenuDigital.exe: 0000456C: 23:51:33 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: zZSeCrEVHm10A40FFB1 ) : Addr: $007C29BA
+AppMenuDigital.exe: 0000456C: 23:51:37 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf
+AppMenuDigital.exe: 000044B0: 23:58:58 []:>--------------------------------------------------------------<
+AppMenuDigital.exe: 000044B0: 23:58:58 [TUniServerModule]:Server First Init.
+AppMenuDigital.exe: 000044B0: 23:58:58 [TUniServerModule]:Start Path = C:\Projetos\uniGUI\CardapioDigital\PortMobile\
+AppMenuDigital.exe: 000044B0: 23:58:58 [TUniServerModule]:Global Cache Folder Erased. <5> Files deleted.
+AppMenuDigital.exe: 000044B0: 23:58:58 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+AppMenuDigital.exe: 000044B0: 23:58:58 [TUniServerModule]:HTTP Server Started on Port: 8077
+AppMenuDigital.exe: 00004110: 23:59:13 [127.0.0.1]:Session <IDbUl2uG6i10A41028B> Created.
+AppMenuDigital.exe: 00004110: 23:59:13 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. (Session not found: p2enCHmSRL10A410076 ) : Addr: $007C29BA
+AppMenuDigital.exe: 00004110: 23:59:37 [127.0.0.1]:Session <gfJSPTy7XT10A4102A6> Created.
+AppMenuDigital.exe: 00003FD8: 23:59:38 [127.0.0.1]:Session <IDbUl2uG6i10A41028B> Terminated. Reason: Browser Window Closed.
+AppMenuDigital.exe: 00004940: 23:59:40 [HandleFileRequest[127.0.0.1]]:File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\ext-7.0.0\build\modern\theme-ios\resources\fonts\OpenSans-Bold.ttf

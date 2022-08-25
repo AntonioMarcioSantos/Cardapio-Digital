@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+.x-treelist-nav { 
+    padding: 0 0 0 0;
+    overflow-y:auto;  
+    z-index: 1000;
+    opacity: 1;
+}
+
+ .x-treelist-nav .x-treelist-item-text { 
+  color: #EEE;     /* cor da fonte */
+  margin-left: 32px;  /* 27 espaçamento da esquerda para direita dos Itens do menu */
+  margin-right: 10px; /* espaçamento da esquerda para direita dos Grupos do menu */  
+  font-family: 'Roboto', sans-serif !important;
+  font-size: 13px;    /* tamanho das letras */
+  line-height: 38px;  /* altura da linha do menu */ 
+  padding: 5
+}
+
+.x-treelist-nav .x-treelist-item-icon:before, 
+.x-treelist-nav .x-treelist-item-tool:before, 
+.x-treelist-nav .x-treelist-item-expander {
+    line-height: 38px;   /* Altura do item do menu */
+}
+
+.x-treelist-nav .x-treelist-row::before { /* Remove a tarja esquerda do menu */
+    display: none;
+    visibility: hidden;
+}
+
+.x-treelist-item-tool,
+.x-treelist-item-tool:hover,
+.x-treelist-item-tool:active,
+.x-treelist-item-tool:focus, 
+.x-treelist-nav, .gradiente1 
+{
+    opacity: 1 !important;
+    background: #000000 !important;
+    background-color: #000000  !important;
+    background: -moz-linear-gradient(48deg, #000000  0%, rgb(6, 3, 49) 100%);
+    background: -webkit-linear-gradient(48deg, #000000  0%, rgb(1, 4, 54) 100%);
+    background: linear-gradient(48deg, rgb(6, 3, 49)  0%, rgb(6, 3, 49) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="rgb(6, 3, 49)",GradientType=1); 
+} 
+
+.x-treelist-row { /* Linha no item de menu */
+    border-bottom: 1px solid  rgb(1, 4, 12);
+    width: 100%;
+}
+
+.x-treelist-rowX:hover { /* Linha no item de menu */
+    border-bottom: 1px solid  rgb(248, 248, 248);
+} 
+
+  /****************************/
+ /* Underline From Center */
+.x-treelist-row {
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+    position: relative;
+    overflow: hidden;
+  }
+  .x-treelist-row:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    left: 51%;
+    right: 51%;
+    bottom: 0;
+    background: #2098D1;
+    height: 4px;
+    -webkit-transition-property: left, right;
+    transition-property: left, right;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+  }
+  .x-treelist-row:hover:before, .x-treelist-row:focus:before, .x-treelist-row:active:before {
+    left: 0;
+    right: 0;
+  }
+
+
+/* --------------------------------------------------- */
+
+
+
+

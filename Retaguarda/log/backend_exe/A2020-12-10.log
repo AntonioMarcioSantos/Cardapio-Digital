@@ -1,0 +1,60 @@
+BackEnd.exe: 00002B64: 01:16:24 [Exit]:Unexpected attempt to terminate server application with Exit Code: 0
+BackEnd.exe: 000005CC: 10:43:57 []:>--------------------------------------------------------------<
+BackEnd.exe: 000005CC: 10:43:57 [TUniServerModule]:Server First Init.
+BackEnd.exe: 000005CC: 10:43:57 [TUniServerModule]:Global Cache Folder Erased. <1> Files deleted.
+BackEnd.exe: 000005CC: 10:43:57 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+BackEnd.exe: 000005CC: 10:43:57 [TUniServerModule]:HTTP Server Started on Port: 8077
+BackEnd.exe: 0000139C: 10:44:26 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\fontawesome-free\css\all.min.css
+BackEnd.exe: 000006B0: 10:44:26 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\sb-admin-2.min.js
+BackEnd.exe: 00001D74: 10:44:26 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery-easing\jquery.easing.min.js
+BackEnd.exe: 00003008: 10:44:26 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery\jquery.min.js
+BackEnd.exe: 000016A8: 10:44:26 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\bootstrap\js\bootstrap.bundle.min.js
+BackEnd.exe: 00002958: 10:44:26 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\chart.js\Chart.min.js
+BackEnd.exe: 000015F8: 10:44:27 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-area-demo.js
+BackEnd.exe: 0000274C: 10:44:27 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-pie-demo.js
+BackEnd.exe: 000013DC: 10:44:27 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\bootstrap\js\bootstrap.bundle.min.js
+BackEnd.exe: 000028C0: 10:44:27 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery-easing\jquery.easing.min.js
+BackEnd.exe: 00001DF0: 10:44:27 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\sb-admin-2.min.js
+BackEnd.exe: 00002A28: 10:44:27 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\chart.js\Chart.min.js
+BackEnd.exe: 00001B08: 10:44:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-area-demo.js
+BackEnd.exe: 00001DCC: 10:44:28 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-pie-demo.js
+BackEnd.exe: 000005CC: 10:47:16 [TUniServerModule]:Shutting Down Server.
+BackEnd.exe: 000005CC: 10:47:16 [TUniServerModule]:Stopping HTTP Server.
+BackEnd.exe: 000005CC: 10:47:17 [TUniServerModule]:HTTP Server Stopped.
+BackEnd.exe: 000005CC: 10:47:17 [TUniGUISessionManager]:Terminating Session manager.
+BackEnd.exe: 000005CC: 10:47:17 [TUniGUISessionManager]:Stopping Cache Eraser...
+BackEnd.exe: 000005CC: 10:47:17 [TUniGUISessionManager]:Cache Eraser Stopped.
+BackEnd.exe: 000005CC: 10:47:17 [TUniGUISessionManager]:Destroying Worker Threads.
+BackEnd.exe: 000005CC: 10:47:17 [TUniGUISessionManager]:Session manager terminated.
+BackEnd.exe: 000005CC: 10:47:18 [TUniServerModule]:Server Shutdown Completed.
+BackEnd.exe: 000005CC: 10:47:18 []:<-------------------------------------------------------------->
+BackEnd.exe: 000005CC: 10:47:18 [Terminated]:Exit Code: 0
+BackEnd.exe: 000024F8: 17:39:01 []:>--------------------------------------------------------------<
+BackEnd.exe: 000024F8: 17:39:01 [TUniServerModule]:Server First Init.
+BackEnd.exe: 000024F8: 17:39:01 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+BackEnd.exe: 000024F8: 17:39:01 [TUniServerModule]:HTTP Server Started on Port: 8077
+BackEnd.exe: 00003278: 17:39:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\fontawesome-free\css\all.min.css
+BackEnd.exe: 00002E40: 17:39:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery-easing\jquery.easing.min.js
+BackEnd.exe: 00001804: 17:39:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\bootstrap\js\bootstrap.bundle.min.js
+BackEnd.exe: 000027CC: 17:39:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\sb-admin-2.min.js
+BackEnd.exe: 000033A0: 17:39:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\chart.js\Chart.min.js
+BackEnd.exe: 00002B68: 17:39:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-pie-demo.js
+BackEnd.exe: 00003318: 17:39:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-area-demo.js
+BackEnd.exe: 00002ED4: 17:39:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery\jquery.min.js
+BackEnd.exe: 0000312C: 17:39:57 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\bootstrap\js\bootstrap.bundle.min.js
+BackEnd.exe: 00001898: 17:39:58 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\jquery-easing\jquery.easing.min.js
+BackEnd.exe: 00002BF8: 17:39:58 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\sb-admin-2.min.js
+BackEnd.exe: 000021D0: 17:39:58 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\vendor\chart.js\Chart.min.js
+BackEnd.exe: 00002184: 17:39:58 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-area-demo.js
+BackEnd.exe: 00000638: 17:39:58 [HandleFileRequest[127.0.0.1]]:File not found: C:\Projetos_Unigui\Retaguarda\js\demo\chart-pie-demo.js
+BackEnd.exe: 000024F8: 19:11:26 [TUniServerModule]:Shutting Down Server.
+BackEnd.exe: 000024F8: 19:11:26 [TUniServerModule]:Stopping HTTP Server.
+BackEnd.exe: 000024F8: 19:11:27 [TUniServerModule]:HTTP Server Stopped.
+BackEnd.exe: 000024F8: 19:11:27 [TUniGUISessionManager]:Terminating Session manager.
+BackEnd.exe: 000024F8: 19:11:27 [TUniGUISessionManager]:Stopping Cache Eraser...
+BackEnd.exe: 000024F8: 19:11:27 [TUniGUISessionManager]:Cache Eraser Stopped.
+BackEnd.exe: 000024F8: 19:11:27 [TUniGUISessionManager]:Destroying Worker Threads.
+BackEnd.exe: 000024F8: 19:11:27 [TUniGUISessionManager]:Session manager terminated.
+BackEnd.exe: 000024F8: 19:11:27 [TUniServerModule]:Server Shutdown Completed.
+BackEnd.exe: 000024F8: 19:11:27 []:<-------------------------------------------------------------->
+BackEnd.exe: 000024F8: 19:11:27 [Terminated]:Exit Code: 0
